@@ -683,7 +683,7 @@
     },
     {
       "name": "support type ts; class;ts里默认数据类型;自定义数据类型; interface; class",
-      "scope": "support.type.primitive,support.type.builtin,entity.name.type.instance,entity.name.type.alias.ts,storage.type.string,storage.type.numeric,storage.type.boolean,storage.type.primitive,meta.type.annotation,meta.method.identifier,entity.other.inherited-classentity.name.type.interface,meta.return.type,meta.type.parameters,keyword.interface,storage.type.generic,entity.name.type.interface,entity.other.inherited-class,storage.type.cs,entity.name.type.struct,keyword.type,entity.name.type.type-parameter,storage.type.object.array,storage.type.java,entity.name.type.delegate,storage.type.c,support.class.dart,meta.declaration.dart, meta.type.declaration, meta.block.ts, meta.class-struct-block.cpp entity.name.type.cpp, support.type.graphql",
+      "scope": "support.type.primitive,support.type.builtin,entity.name.type.instance,entity.name.type.alias.ts,storage.type.string,storage.type.numeric,storage.type.boolean,storage.type.primitive,meta.type.annotation,meta.method.identifier,entity.other.inherited-classentity.name.type.interface,meta.return.type,meta.type.parameters,keyword.interface,storage.type.generic,entity.name.type.interface,entity.other.inherited-class,storage.type.cs,entity.name.type.struct,keyword.type,entity.name.type.type-parameter,storage.type.object.array,storage.type.java,entity.name.type.delegate,support.class.dart,meta.declaration.dart, meta.type.declaration, meta.block.ts, meta.class-struct-block.cpp entity.name.type.cpp, support.type.graphql, storage.type.language.primitive.cpp, storage.type.built-in.primitive.c",
       "settings": {
         "fontStyle": "",
         "foreground": "#EF8ED8"
@@ -1023,7 +1023,7 @@
     },
     {
       "name": "keyword",
-      "scope": "meta.var.expr,storage.type.function,keyword.function,keyword.var,keyword.const,keyword.channel,keyword.struct,keyword.other.struct,keyword.map,keyword.reserved,storage.type.class,storage.type.php,storage.type.interface,storage.type.object,storage.type.primitive.dart, keyword.declaration, keyword.operator.closure.dart, storage.type.enum, storage.type.type,keyword.control.at-rule.function,keyword.control.at-rule.mixin, storage.type.const",
+      "scope": "meta.var.expr,storage.type.function,keyword.function,keyword.var,keyword.const,keyword.channel,keyword.struct,keyword.other.struct,keyword.map,keyword.reserved,storage.type.class, storage.type.struct,storage.type.php,storage.type.interface,storage.type.object,storage.type.primitive.dart, keyword.declaration, keyword.operator.closure.dart, storage.type.enum, storage.type.type,keyword.control.at-rule.function,keyword.control.at-rule.mixin, storage.type.const",
       "settings": {
         "fontStyle": "",
         "foreground": "#7C4DFF"
